@@ -47,7 +47,7 @@ I was brought in to assess production readiness and lead QA as the platform prep
 5. **[Turning CI from theater into a gate](case-studies/05-ci-enforcement.md)**
    A CI pipeline that reported green while real violations accumulated behind `continue-on-error`, and the incremental campaign that made type-checking, lint families, and accessibility contrast genuinely blocking without halting a fast-moving team.
 
-6. **[The Outage That Passed Every Test](case-studies/silent-outage-incident.md)** — root-causing a silent production failure invisible to every CI gate
+6. **[The Outage That Passed Every Test](case-studies/silent-outage-incident.md)** Root-causing a silent production failure invisible to every CI gate
 
 ## Process documentation
 
