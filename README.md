@@ -47,6 +47,8 @@ I was brought in to assess production readiness and lead QA as the platform prep
 5. **[Turning CI from theater into a gate](case-studies/05-ci-enforcement.md)**
    A CI pipeline that reported green while real violations accumulated behind `continue-on-error`, and the incremental campaign that made type-checking, lint families, and accessibility contrast genuinely blocking without halting a fast-moving team.
 
+6. **[The Outage That Passed Every Test](case-studies/silent-outage-incident.md)** — root-causing a silent production failure invisible to every CI gate
+
 ## Process documentation
 
 - **[AI QA workflow](process/ai-qa-workflow.md)** - how I run QA with Claude Code as the execution layer and myself as the verification layer: evidence labels (Verified / Inferred / Hypothesized), the four-question investigation gate, adversarial review, and autonomous-run architecture with STOP-AND-REPORT gates.
